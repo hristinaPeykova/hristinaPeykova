@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hristinaPeykova
 - 👀 I’m interested in IT...
-- 🌱 I’m currently learning ... git
+- 🌱 I’m currently learning ... AI
 - 💞️ I’m looking to collaborate on ... IT
 - 📫 How to reach me ... just leave a note to hristina.peykova@gmail.com
 
